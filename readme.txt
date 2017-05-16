@@ -1,1 +1,1 @@
-version 2.1 branche b1
+version 2.2 branche b1 modifiée par nb
