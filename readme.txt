@@ -1,1 +1,1 @@
-version 2.2 branche b1 modifiée par nb
+version 3.1 sous cli 
